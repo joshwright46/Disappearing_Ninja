@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    padding-top: 250px;
+}
+.raph
+{
+    border: 1px dashed green;
+}
+.restore_btn
+{
+    text-decoration: none;
+    color: green;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: red;
+    padding: 5px;
+    margin-top: 40px;
+}
